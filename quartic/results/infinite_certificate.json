@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "checks": {
+    "finite_all_301_signs": true,
+    "bessel_denominator": true,
+    "first_error_constant_fourth_power": true,
+    "constant_error_bound": true,
+    "positive_cosine_margin": true,
+    "main_vs_error_at_300": true
+  },
+  "max_exact_degree": 300,
+  "error_ratio_upper_at_300": "18350391291328754567136186591253520988774843899692397362380333356069746524405182527576586172427840905387022331733153898511023930406064315487070145478656000000000000000000/1673665081101919881741455630201537912340675535508317130673689130126902879036362249437841116512684268631761866016894759253228080576261719636203637201821871916842201285770849",
+  "error_ratio_upper_decimal": 0.01096419558400961,
+  "coefficient_sha256": "f28d3314412576ee3c274bac6eec8e095659b03db3d790fc47d7bb9af5351ee1",
+  "source_sha256": "c8de92d5fdec09df4e92df71d253643fc5ea203d0f36f1ee317b014cda9ee000",
+  "scope": "Finite signs and rational constants; the uniform estimates are in INFINITE_SIGNS.md."
+}

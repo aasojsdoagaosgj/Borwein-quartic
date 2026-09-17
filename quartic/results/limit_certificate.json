@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "method": "exact rational interval arithmetic",
+  "alpha_star_interval": [
+    "0.74908009478851072443256",
+    "0.74908009478851072443257"
+  ],
+  "tau_star_interval": [
+    "1.80469478324299719821291",
+    "1.80469478324299719821292"
+  ],
+  "x_star_interval": [
+    "0.16452466459917623057644",
+    "0.16452466459917623057645"
+  ],
+  "terms": {
+    "atan_1_over_5": 24,
+    "atan_1_over_239": 8,
+    "log_x": 110,
+    "log_delta": 40,
+    "dilog": 60
+  },
+  "source_sha256": "4adb4284cf9c5961c432c45f32f3084ca8a5ac3ee0aeafcf436d1df0abab9c7a",
+  "scope": "Encloses the formula in COMPACT_PROOF.md; does not certify its connection to coefficient signs."
+}

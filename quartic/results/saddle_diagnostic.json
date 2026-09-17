@@ -1,0 +1,161 @@
+{
+  "status": "diagnostic_completed",
+  "precision_digits": 70,
+  "coefficient_samples": [
+    {
+      "n": 20,
+      "coefficients": [
+        {
+          "degree": 899,
+          "normalized": "0.003632121770987196647495612",
+          "n2_times_first_order_residual": "0.1512374728094924248675092",
+          "n3_times_second_order_residual": "0.03995706777103750214031349"
+        },
+        {
+          "degree": 902,
+          "normalized": "0.001759377037978827794176816",
+          "n2_times_first_order_residual": "0.1510006555547362496081421",
+          "n3_times_second_order_residual": "0.04016795831038455616023682"
+        },
+        {
+          "degree": 905,
+          "normalized": "-0.0001154921446297184349165232",
+          "n2_times_first_order_residual": "0.1507629531302682742941121",
+          "n3_times_second_order_residual": "0.04037801191155296755293769"
+        },
+        {
+          "degree": 908,
+          "normalized": "-0.001992469636482958576416014",
+          "n2_times_first_order_residual": "0.1505243545113601986949478",
+          "n3_times_second_order_residual": "0.0405872199011902206989106"
+        }
+      ],
+      "crossing_prediction": "300.7282163897839058498415",
+      "local_last_positive_index": 300,
+      "local_first_negative_index": 301,
+      "local_crossing_ratio": "0.75",
+      "n2_times_normalized_difference": "-0.7490978932033475413275184"
+    },
+    {
+      "n": 40,
+      "coefficients": [
+        {
+          "degree": 3602,
+          "normalized": "0.0007495216351002629659819669",
+          "n2_times_first_order_residual": "0.1500989108094963692794537",
+          "n3_times_second_order_residual": "0.03931470119194559711966"
+        },
+        {
+          "degree": 3605,
+          "normalized": "0.0002799389576777730765001872",
+          "n2_times_first_order_residual": "0.1500383410005917722946744",
+          "n3_times_second_order_residual": "0.03936657081104057710746151"
+        },
+        {
+          "degree": 3608,
+          "normalized": "-0.000189771061770780132021163",
+          "n2_times_first_order_residual": "0.1499777172137935744980858",
+          "n3_times_second_order_residual": "0.03941838298306210791822497"
+        },
+        {
+          "degree": 3611,
+          "normalized": "-0.000659608177955074620009695",
+          "n2_times_first_order_residual": "0.1499170392799322281516586",
+          "n3_times_second_order_residual": "0.03947013759853335798715269"
+        }
+      ],
+      "crossing_prediction": "1201.387175277043057912401",
+      "local_last_positive_index": 1201,
+      "local_first_negative_index": 1202,
+      "local_crossing_ratio": "0.750625",
+      "n2_times_normalized_difference": "-0.7513322838759838231708475"
+    },
+    {
+      "n": 80,
+      "coefficients": [
+        {
+          "degree": 14399,
+          "normalized": "0.0002004550403501731768266877",
+          "n2_times_first_order_residual": "0.1496486280652942311928414",
+          "n3_times_second_order_residual": "0.03889754029823279970865234"
+        },
+        {
+          "degree": 14402,
+          "normalized": "0.00008292154228081455215562102",
+          "n2_times_first_order_residual": "0.1496333372243908041605221",
+          "n3_times_second_order_residual": "0.03891042568254973939181367"
+        },
+        {
+          "degree": 14405,
+          "normalized": "-0.00003461976121672441608727991",
+          "n2_times_first_order_residual": "0.1496180430686220901726146",
+          "n3_times_second_order_residual": "0.03892330733457143390703361"
+        },
+        {
+          "degree": 14408,
+          "normalized": "-0.0001521688663617026189296845",
+          "n2_times_first_order_residual": "0.149602745595357464527908",
+          "n3_times_second_order_residual": "0.0389361852527788141156651"
+        }
+      ],
+      "crossing_prediction": "4800.497320543987100675674",
+      "local_last_positive_index": 4800,
+      "local_first_negative_index": 4801,
+      "local_crossing_ratio": "0.75",
+      "n2_times_normalized_difference": "-0.7522143876438951978948268"
+    },
+    {
+      "n": 160,
+      "coefficients": [
+        {
+          "degree": 57566,
+          "normalized": "0.00006157386040510363826451624",
+          "n2_times_first_order_residual": "0.1494427457381227015828575",
+          "n3_times_second_order_residual": "0.03867542996982073897825362"
+        },
+        {
+          "degree": 57569,
+          "normalized": "0.00003217388776571161312222622",
+          "n2_times_first_order_residual": "0.1494389051820368624452834",
+          "n3_times_second_order_residual": "0.03867864205840167306346791"
+        },
+        {
+          "degree": 57572,
+          "normalized": "0.000002773432015200100696136983",
+          "n2_times_first_order_residual": "0.1494350644207343320334424",
+          "n3_times_second_order_residual": "0.03868185390944838166472078"
+        },
+        {
+          "degree": 57575,
+          "normalized": "-0.00002662750678777320599477501",
+          "n2_times_first_order_residual": "0.1494312234541740801320891",
+          "n3_times_second_order_residual": "0.03868506552293858144117825"
+        }
+      ],
+      "crossing_prediction": "19189.88652104757814075484",
+      "local_last_positive_index": 19190,
+      "local_first_negative_index": 19191,
+      "local_crossing_ratio": "0.749609375",
+      "n2_times_normalized_difference": "-0.7526392995684358436426245"
+    }
+  ],
+  "modular_identity": [
+    {
+      "w": "0.05",
+      "relative_error": "8.8327724857136990027e-69"
+    },
+    {
+      "w": "0.4",
+      "relative_error": "8.1741177591732377557e-70"
+    },
+    {
+      "w": "(0.2 - 0.3j)",
+      "relative_error": "2.1938137141061421073e-70"
+    }
+  ],
+  "expected_limit_n2_difference": "-0.753059949840507759799527043601",
+  "expected_limit_n2_first_order_residual": "0.149248170272878238579669480415",
+  "source_sha256": "894c75477bc05fc1bb4f232914cc526e338f100cd90833237af2895d34d24fd9",
+  "elapsed_seconds": 18.76955500000622,
+  "caution": "Finite diagnostics only; no interval rounding and no proof of uniform error bounds."
+}

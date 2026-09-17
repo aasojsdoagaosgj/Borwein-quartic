@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "created_at_utc": "2026-09-17T15:04:56.958741+00:00",
+  "scope": "Public GitHub bundle: proof draft, computational certificates, diagnostics, and audit report.",
+  "sha256": {
+    ".gitattributes": "67a377c10f1c380165837b3286f10357669615b5a849c1f4253d82497b22855e",
+    ".gitignore": "37327bba2f425391d1566939d724ac0625c426cd808c43fd52f47b7e5f778512",
+    "INDEPENDENT_AUDIT.md": "e8b75402f1be29892dbee1de0a9bfe2a192f982f131a778c62bba62b9d91b3cf",
+    "README.md": "70497da71d940ff8036a599d2d1c7d1a9cbb6e5c36495eaf654bc7fd9855fa2d",
+    "quartic/AUDIT.md": "9b1a713abab1113b66ee909a6f8ee111f184db11429693aa2d5ccd293743e34d",
+    "quartic/COMPACT_PROOF.md": "67e6f2d4615ee418b023aded569356d06727a9b6b020e448fdd48054a3c416b4",
+    "quartic/ENDPOINT_PROOF.md": "ac26c036815b891c24f5ff0bbf69faf097529f478716db0474748da2176c624a",
+    "quartic/INFINITE_SIGNS.md": "1ed4fdfdf3692adf4fd606cf1b468592a9b67d5c28c9609fa1be10586abe3af4",
+    "quartic/LARGE_N_RESULT.md": "34300afd7339f422c5626fed7925bcfba917d7de43d780c9c306d42d71c2fbe0",
+    "quartic/certify_endpoint_constants.py": "ed3e109480f4ef09eba1cb677983ea075366fb583178391d58c2f8121ff992d0",
+    "quartic/certify_infinite.py": "c8de92d5fdec09df4e92df71d253643fc5ea203d0f36f1ee317b014cda9ee000",
+    "quartic/certify_limit.py": "4adb4284cf9c5961c432c45f32f3084ca8a5ac3ee0aeafcf436d1df0abab9c7a",
+    "quartic/diagnostic.py": "80e624afcf923dd18d737a119978400c1243e30c59bd5f189f334484705742f7",
+    "quartic/results/diagnostic.json": "40f4e65c74279cad5fca842291887c003707d35a2e637d1c97b6bb849dc804f7",
+    "quartic/results/endpoint_certificate.json": "8a571b1d673c6a3b237826f1f4de2cf89b51555cb1e7aeb0d07a42978fdb777a",
+    "quartic/results/infinite_certificate.json": "1e9c7352ec73ee288e6befca2bebd115f5e5943d8edae4bc7c17af03bab3914b",
+    "quartic/results/limit_certificate.json": "553f069afea04c10e94e905093f66b662221614a5f14392793aad07d5adfc565",
+    "quartic/results/saddle_diagnostic.json": "125c8d47ca3184db167275f857872ce43b563ef2f4baaad50abb95d1169d190a",
+    "quartic/results/verification.json": "ffd95dcb3f7ee514beb75c08a435328d2954276a809268535d8dd0f90b80567d",
+    "quartic/saddle_diagnostic.py": "894c75477bc05fc1bb4f232914cc526e338f100cd90833237af2895d34d24fd9",
+    "quartic/verify.py": "a3bcf1c2d90dd362bf960903f04c39923d9b52d3b2a815e2aa682160439031e8",
+    "requirements-audit.txt": "a699f46ed76bd216f1081b6b2330e4fb45d7c8c5a5354b208694d6590a5a8645",
+    "verify_bundle.py": "a7a067345aaef5ef6f595d59598210f53c8d44317a34aa3a0965bfd4ce195d0a"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "status": "all_saved_computations_verified",
+  "replayed": false,
+  "checked_at_utc": "2026-09-17T19:29:13.534931+00:00",
+  "theorem_scope": "All n sufficiently large; threshold N0 not numerically evaluated.",
+  "jobs": [
+    {
+      "script": "certify_infinite.py",
+      "report": "infinite_certificate.json",
+      "status": "passed",
+      "report_sha256": "1e9c7352ec73ee288e6befca2bebd115f5e5943d8edae4bc7c17af03bab3914b"
+    },
+    {
+      "script": "certify_endpoint_constants.py",
+      "report": "endpoint_certificate.json",
+      "status": "passed",
+      "report_sha256": "8a571b1d673c6a3b237826f1f4de2cf89b51555cb1e7aeb0d07a42978fdb777a"
+    },
+    {
+      "script": "certify_limit.py",
+      "report": "limit_certificate.json",
+      "status": "passed",
+      "report_sha256": "553f069afea04c10e94e905093f66b662221614a5f14392793aad07d5adfc565"
+    },
+    {
+      "script": "diagnostic.py",
+      "report": "diagnostic.json",
+      "status": "passed",
+      "report_sha256": "40f4e65c74279cad5fca842291887c003707d35a2e637d1c97b6bb849dc804f7"
+    },
+    {
+      "script": "saddle_diagnostic.py",
+      "report": "saddle_diagnostic.json",
+      "status": "diagnostic_completed",
+      "report_sha256": "125c8d47ca3184db167275f857872ce43b563ef2f4baaad50abb95d1169d190a"
+    }
+  ],
+  "input_sha256": {
+    "AUDIT.md": "9b1a713abab1113b66ee909a6f8ee111f184db11429693aa2d5ccd293743e34d",
+    "certify_endpoint_constants.py": "ed3e109480f4ef09eba1cb677983ea075366fb583178391d58c2f8121ff992d0",
+    "certify_infinite.py": "c8de92d5fdec09df4e92df71d253643fc5ea203d0f36f1ee317b014cda9ee000",
+    "certify_limit.py": "4adb4284cf9c5961c432c45f32f3084ca8a5ac3ee0aeafcf436d1df0abab9c7a",
+    "COMPACT_PROOF.md": "67e6f2d4615ee418b023aded569356d06727a9b6b020e448fdd48054a3c416b4",
+    "diagnostic.py": "80e624afcf923dd18d737a119978400c1243e30c59bd5f189f334484705742f7",
+    "ENDPOINT_PROOF.md": "ac26c036815b891c24f5ff0bbf69faf097529f478716db0474748da2176c624a",
+    "INFINITE_SIGNS.md": "1ed4fdfdf3692adf4fd606cf1b468592a9b67d5c28c9609fa1be10586abe3af4",
+    "LARGE_N_RESULT.md": "34300afd7339f422c5626fed7925bcfba917d7de43d780c9c306d42d71c2fbe0",
+    "saddle_diagnostic.py": "894c75477bc05fc1bb4f232914cc526e338f100cd90833237af2895d34d24fd9",
+    "verify.py": "a3bcf1c2d90dd362bf960903f04c39923d9b52d3b2a815e2aa682160439031e8"
+  },
+  "limitation": "Source hashes and computations only; written analytic arguments are not mechanically checked."
+}
